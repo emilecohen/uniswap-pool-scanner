@@ -6,7 +6,7 @@ require('dotenv').config();
 const API_KEYPOINT_GRT = process.env.API_KEYPOINT_GRT;
 
 const APIURL = `https://gateway.thegraph.com/api/${API_KEYPOINT_GRT}/subgraphs/id/0x9bde7bf4d5b13ef94373ced7c8ee0be59735a298-2`;
-  
+
 const tokensQuery = `
 {
     pools(first: 1000, orderBy: volumeUSD, orderDirection: desc) {

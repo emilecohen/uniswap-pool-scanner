@@ -1,0 +1,956 @@
+{
+    "data": {
+      "pools": [
+        {
+          "feeTier": "500",
+          "id": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+          "token0": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "34320.00721892965956959401288786604",
+          "totalValueLockedUSD": "104380389.4293707929106199979015317",
+          "volumeUSD": "39471408990.28603909645000369037318"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+          "token0": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "96816.45206260748481701279759625849",
+          "totalValueLockedUSD": "294456201.7426098544432384752304922",
+          "volumeUSD": "28297318266.01584200183558623590429"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36",
+          "token0": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "token1": {
+            "derivedETH": "0.0003289819985353728071202923421860291",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "totalValueLockedETH": "44116.52411476764590341450353802414",
+          "totalValueLockedUSD": "134175378.7519537647776225308250167",
+          "volumeUSD": "13119026096.89521176873849674463274"
+        },
+        {
+          "feeTier": "500",
+          "id": "0x11b815efb8f581194ae79006d24e0d814b7697f6",
+          "token0": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "token1": {
+            "derivedETH": "0.0003289819985353728071202923421860291",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "totalValueLockedETH": "6806.463381707082068681642590778534",
+          "totalValueLockedUSD": "20701082.42947783665944174897610494",
+          "volumeUSD": "11378474770.49167702754776387454131"
+        },
+        {
+          "feeTier": "500",
+          "id": "0x7858e59e0c01ea06df3af3d20ac7b0003275d4bf",
+          "token0": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "token1": {
+            "derivedETH": "0.0003289819985353728071202923421860291",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "totalValueLockedETH": "47056.40203860004289461610802814233",
+          "totalValueLockedUSD": "143116682.3072508001334374666330036",
+          "volumeUSD": "6769572393.380411277633991403103894"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed",
+          "token0": {
+            "derivedETH": "14.19890159316151273718552640692744",
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "72731.81206907992354544031236823831",
+          "totalValueLockedUSD": "221777976.7068746628062935849791948",
+          "volumeUSD": "6064318533.822999624504631621313377"
+        },
+        {
+          "feeTier": "500",
+          "id": "0x60594a405d53811d3bc4766596efd80fd545a270",
+          "token0": {
+            "derivedETH": "0.0003291790889354741319116305142073979",
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "1572.840937447940125478781559462873",
+          "totalValueLockedUSD": "4783616.405264634907107605271262762",
+          "volumeUSD": "4993519539.292014581185438690854239"
+        },
+        {
+          "feeTier": "500",
+          "id": "0x4585fe77225b41b697c938b018e2ac67ac5a20c0",
+          "token0": {
+            "derivedETH": "14.19890159316151273718552640692744",
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "15645.32326602089370278549492152143",
+          "totalValueLockedUSD": "47605767.34029864625755591568131932",
+          "volumeUSD": "3996147071.022164661533931857320148"
+        },
+        {
+          "feeTier": "500",
+          "id": "0x6c6bc977e13df9b0de53b251522280bb72383700",
+          "token0": {
+            "derivedETH": "0.0003291790889354741319116305142073979",
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "totalValueLockedETH": "28333.0023177653451940493787366868",
+          "totalValueLockedUSD": "86171596.54909434359176757185062044",
+          "volumeUSD": "3844382513.762785965554273054601284"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8",
+          "token0": {
+            "derivedETH": "0.0003291790889354741319116305142073979",
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "13036.12035944393119568672765101803",
+          "totalValueLockedUSD": "39647873.93798640988640210894836416",
+          "volumeUSD": "3613565454.650512222366237003507382"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x99ac8ca7087fa4a2a1fb6357269965a2014abc35",
+          "token0": {
+            "derivedETH": "14.19890159316151273718552640692744",
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC"
+          },
+          "token1": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "totalValueLockedETH": "16567.97042102191883876157790580718",
+          "totalValueLockedUSD": "50519997.42043646536843788667004425",
+          "volumeUSD": "2890440338.015466195979989721090126"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801",
+          "token0": {
+            "derivedETH": "0.007928299988848543137424723031839069",
+            "id": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "name": "Uniswap",
+            "symbol": "UNI"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "21400.58838092821439642983105800066",
+          "totalValueLockedUSD": "65087449.86472122690742046585608558",
+          "volumeUSD": "2268225952.868765764954341214482466"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8",
+          "token0": {
+            "derivedETH": "0.008029651638691430348160821350296548",
+            "id": "0x514910771af9ca656af840dff83e8264ecf986ca",
+            "name": "ChainLink Token",
+            "symbol": "LINK"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "14476.58260248704352716233314989179",
+          "totalValueLockedUSD": "44098241.98810331699331490548189128",
+          "volumeUSD": "2056425508.374027720089172890605582"
+        },
+        {
+          "feeTier": "500",
+          "id": "0x6f48eca74b38d2936b02ab603ff4e36a6c0e3a77",
+          "token0": {
+            "derivedETH": "0.0003291790889354741319116305142073979",
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
+          },
+          "token1": {
+            "derivedETH": "0.0003289819985353728071202923421860291",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "totalValueLockedETH": "10475.04620474810384587131501571978",
+          "totalValueLockedUSD": "31858658.86237885330466530317488582",
+          "volumeUSD": "1576333200.879856297539574184346305"
+        },
+        {
+          "feeTier": "500",
+          "id": "0x8c54aa2a32a779e6f6fbea568ad85a19e0109c26",
+          "token0": {
+            "derivedETH": "0.0003281251083928904251468870028790513",
+            "id": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+            "name": "Fei USD",
+            "symbol": "FEI"
+          },
+          "token1": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "totalValueLockedETH": "2973.446993449557578561296209074145",
+          "totalValueLockedUSD": "9066803.635059282956189970280638877",
+          "volumeUSD": "1538815582.403502784996034131078303"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x3019d4e366576a88d28b623afaf3ecb9ec9d9580",
+          "token0": {
+            "derivedETH": "0.02108687569912692785540374895407932",
+            "id": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+            "name": "Axie Infinity Shard",
+            "symbol": "AXS"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "4750.485557683101986940040295085281",
+          "totalValueLockedUSD": "14448060.26194735217120449741025759",
+          "volumeUSD": "1427759957.727887444376643895517234"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x69d91b94f0aaf8e8a2586909fa77a5c2c89818d5",
+          "token0": {
+            "derivedETH": "0.0001465214751986527274830126517168159",
+            "id": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+            "name": "HEX",
+            "symbol": "HEX"
+          },
+          "token1": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "totalValueLockedETH": "12103.70269869072044524568695935168",
+          "totalValueLockedUSD": "36812031.91967350121511035053268948",
+          "volumeUSD": "1390912656.276754076600388248524395"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x151ccb92bc1ed5c6d0f9adb5cec4763ceb66ac7f",
+          "token0": {
+            "derivedETH": "0.03893118587933001586932372131333443",
+            "id": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+            "name": "ETH 2x Flexible Leverage Index",
+            "symbol": "ETH2x-FLI"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "7360.827818277979934611529518370834",
+          "totalValueLockedUSD": "22445054.70144022005856906277763335",
+          "volumeUSD": "1149212713.442834832356590896831079"
+        },
+        {
+          "feeTier": "10000",
+          "id": "0x5764a6f2212d502bc5970f9f129ffcd61e5d7563",
+          "token0": {
+            "derivedETH": "0.000000002354431040000000104137292297546735",
+            "id": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+            "name": "SHIBA INU",
+            "symbol": "SHIB"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "3719.25537201236491498174729209381",
+          "totalValueLockedUSD": "11334207.80961773212388217431670091",
+          "volumeUSD": "1081296944.573371574698342655296114"
+        },
+        {
+          "feeTier": "10000",
+          "id": "0x5d752f322befb038991579972e912b02f61a3dda",
+          "token0": {
+            "derivedETH": "0.0008861744003688689900446873930716749",
+            "id": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
+            "name": "Adventure Gold",
+            "symbol": "AGLD"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "6748.234690232779080473562102612492",
+          "totalValueLockedUSD": "20577100.90491770337331992861046861",
+          "volumeUSD": "927593142.4596491295571975909643596"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x5180545835bd68810fb7e11c7160bb7ea4ae8744",
+          "token0": {
+            "derivedETH": "0.0003281251083928904251468870028790513",
+            "id": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+            "name": "Fei USD",
+            "symbol": "FEI"
+          },
+          "token1": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "totalValueLockedETH": "2066.324478126015470394572813692499",
+          "totalValueLockedUSD": "6072860.907635859527114180515776682",
+          "volumeUSD": "915910893.624777518898800429496859"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x290a6a7460b308ee3f19023d2d00de604bcf5b42",
+          "token0": {
+            "derivedETH": "0.0003790615894992633680448860970550574",
+            "id": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+            "name": "Matic Token",
+            "symbol": "MATIC"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "3105.161222153667501563107669724028",
+          "totalValueLockedUSD": "9443993.864622766711616594664952724",
+          "volumeUSD": "671432276.1561765800566901895420978"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x06729eb2424da47898f935267bd4a62940de5105",
+          "token0": {
+            "derivedETH": "0.001672352130910913455528736256163601",
+            "id": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+            "name": "Celsius",
+            "symbol": "CEL"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "2864.068198552848365442706927171458",
+          "totalValueLockedUSD": "8733279.594660171465671536865311689",
+          "volumeUSD": "624605502.4983288100672349656555182"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x0cfbed8f2248d2735203f602be0cae5a3131ec68",
+          "token0": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "token1": {
+            "derivedETH": "0.00002152449663101395700016966798194819",
+            "id": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+            "name": "Smooth Love Potion",
+            "symbol": "SLP"
+          },
+          "totalValueLockedETH": "709.5828007574521642882641718519219",
+          "totalValueLockedUSD": "2158115.195109693782315761911072051",
+          "volumeUSD": "621274445.9306325477475309115399951"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x2f62f2b4c5fcd7570a709dec05d68ea19c82a9ec",
+          "token0": {
+            "derivedETH": "0.000000002354431040000000104137292297546735",
+            "id": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+            "name": "SHIBA INU",
+            "symbol": "SHIB"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "849.5930247472962781582488930180082",
+          "totalValueLockedUSD": "2588011.261046818091225667387975925",
+          "volumeUSD": "563471869.6844295482353370239763969"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x6c4ab1907805adcb0b7ae911a5d1b0b99d608b3c",
+          "token0": {
+            "derivedETH": "0.005944342981709480303489898633241415",
+            "id": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+            "name": "dYdX",
+            "symbol": "DYDX"
+          },
+          "token1": {
+            "derivedETH": "0.0003289819985353728071202923421860291",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "totalValueLockedETH": "2573.178535618892695480372379936824",
+          "totalValueLockedUSD": "7826029.170269347014235497398329976",
+          "volumeUSD": "507089496.4444686876558672431626813"
+        },
+        {
+          "feeTier": "500",
+          "id": "0xbd5fdda17bc27bb90e37df7a838b1bfc0dc997f5",
+          "token0": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "token1": {
+            "derivedETH": "0.0003838561553345836055196854636767266",
+            "id": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+            "name": "STASIS EURS Token",
+            "symbol": "EURS"
+          },
+          "totalValueLockedETH": "5516.286806869385635235298986056841",
+          "totalValueLockedUSD": "16805594.91894141944993457144698351",
+          "volumeUSD": "456440932.9072911433405425190201963"
+        },
+        {
+          "feeTier": "10000",
+          "id": "0x84383fb05f610222430f69727aa638f8fdbf5cc1",
+          "token0": {
+            "derivedETH": "0.005069440179048140983221081503214959",
+            "id": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611",
+            "name": "Million",
+            "symbol": "MM"
+          },
+          "token1": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "totalValueLockedETH": "1577.182051422460351404961937215706",
+          "totalValueLockedUSD": "4670585.340355704039690023583016136",
+          "volumeUSD": "452352243.961772"
+        },
+        {
+          "feeTier": "10000",
+          "id": "0xe0cfa17aa9b8f930fd936633c0252d5cb745c2c3",
+          "token0": {
+            "derivedETH": "0.005944342981709480303489898633241415",
+            "id": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+            "name": "dYdX",
+            "symbol": "DYDX"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "9933.290979866699845448216692611537",
+          "totalValueLockedUSD": "30210972.10672668230106206324935451",
+          "volumeUSD": "407707862.5793040829559935189418093"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0xea4ba4ce14fdd287f380b55419b1c5b6c3f22ab6",
+          "token0": {
+            "derivedETH": "0.1160412654268590969405445633179734",
+            "id": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+            "name": "Compound",
+            "symbol": "COMP"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "6271.381154722614434361929537037058",
+          "totalValueLockedUSD": "19083297.63616339263784741105473166",
+          "volumeUSD": "406295525.8038066615558021968718604"
+        },
+        {
+          "feeTier": "500",
+          "id": "0x92995d179a5528334356cb4dc5c6cbb1c068696c",
+          "token0": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "token1": {
+            "derivedETH": "0.0003293234209056546708143484791394095",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "name": "Wrapped UST Token",
+            "symbol": "UST"
+          },
+          "totalValueLockedETH": "1387.074043641905727296721119054242",
+          "totalValueLockedUSD": "4229545.039374907501512461682239862",
+          "volumeUSD": "391868921.067451676632303290236979"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x24ee2c6b9597f035088cda8575e9d5e15a84b9df",
+          "token0": {
+            "derivedETH": "0.09660475866814361408527205216830398",
+            "id": "0x4a220e6096b25eadb88358cb44068a3248254675",
+            "name": "Quant",
+            "symbol": "QNT"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "1507.007136108711684333316092850675",
+          "totalValueLockedUSD": "4587800.121620114101489015928127025",
+          "volumeUSD": "358955381.9936091869272106871076702"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0xcd83055557536eff25fd0eafbc56e74a1b4260b3",
+          "token0": {
+            "derivedETH": "0.0049489613290704966576185127351704",
+            "id": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+            "name": "Perpetual",
+            "symbol": "PERP"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "4697.420177630760363153565192553265",
+          "totalValueLockedUSD": "14286667.95804288556634792169730748",
+          "volumeUSD": "342607709.0756739020577475172298246"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0xf87bb87fd9ea1c260ddf77b9c707ad9437ff8364",
+          "token0": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "token1": {
+            "derivedETH": "0.0001765171073655469488804353119718153",
+            "id": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+            "name": "Tribe",
+            "symbol": "TRIBE"
+          },
+          "totalValueLockedETH": "365.9931158283161087601159629049431",
+          "totalValueLockedUSD": "1071105.134628412096267435152413328",
+          "volumeUSD": "340153707.0148761599567562983634104"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x7685cd3ddd862b8745b1082a6acb19e14eaa74f3",
+          "token0": {
+            "derivedETH": "0.0003337315544256002217729872209117048",
+            "id": "0xba5bde662c17e2adff1075610382b9b691296350",
+            "name": "SuperRare",
+            "symbol": "RARE"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "1046.028917894107398534773503727967",
+          "totalValueLockedUSD": "3181377.705070757095621550713731731",
+          "volumeUSD": "338117857.3420436103493995884031164"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0xe8c6c9227491c0a8156a0106a0204d881bb7e531",
+          "token0": {
+            "derivedETH": "0.7804595270314126907849894108054901",
+            "id": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+            "name": "Maker",
+            "symbol": "MKR"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "4379.065515937906377138992481196878",
+          "totalValueLockedUSD": "13316281.95124865300585140213405908",
+          "volumeUSD": "328645375.1229743308147510428143738"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x9e0905249ceefffb9605e034b534544684a58be6",
+          "token0": {
+            "derivedETH": "0.0001465214751986527274830126517168159",
+            "id": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+            "name": "HEX",
+            "symbol": "HEX"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "1182.149849731698996384960771141286",
+          "totalValueLockedUSD": "3595374.001285398894739742663154355",
+          "volumeUSD": "321344657.5950659278377777147227496"
+        },
+        {
+          "feeTier": "500",
+          "id": "0xcb0c5d9d92f4f2f80cce7aa271a1e148c226e19d",
+          "token0": {
+            "derivedETH": "0.000990702775298143043490681794728195",
+            "id": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+            "name": "Rai Reflex Index",
+            "symbol": "RAI"
+          },
+          "token1": {
+            "derivedETH": "0.0003291790889354741319116305142073979",
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
+          },
+          "totalValueLockedETH": "9335.380804407146650966552890512929",
+          "totalValueLockedUSD": "28526981.84585299302897376342342323",
+          "volumeUSD": "290160645.9554842801977810658683247"
+        },
+        {
+          "feeTier": "500",
+          "id": "0x868b7bbbfe148516e5397f23982923686182c2d2",
+          "token0": {
+            "derivedETH": "0.0003293234209056546708143484791394095",
+            "id": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+            "name": "Wrapped UST Token",
+            "symbol": "UST"
+          },
+          "token1": {
+            "derivedETH": "0.0003289819985353728071202923421860291",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "totalValueLockedETH": "750.5841084083613274009728100513807",
+          "totalValueLockedUSD": "2282815.998125690669305467806463413",
+          "volumeUSD": "244155362.3116575503642339373127487"
+        },
+        {
+          "feeTier": "500",
+          "id": "0xc63b0708e2f7e69cb8a1df0e1389a98c35a76d52",
+          "token0": {
+            "derivedETH": "0.0003282282912596775403626143916766277",
+            "id": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "name": "Frax",
+            "symbol": "FRAX"
+          },
+          "token1": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "totalValueLockedETH": "31012.9842565756823481842794128216",
+          "totalValueLockedUSD": "94307253.68395088033612420173299857",
+          "volumeUSD": "240529264.9091385542515950807970988"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x3139bbba7f4b9125595cb4ebeefdac1fce7ab5f1",
+          "token0": {
+            "derivedETH": "0.002421017641298048964263968214098498",
+            "id": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
+            "name": "THORChain ETH.RUNE",
+            "symbol": "RUNE"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "1434.294144005833811437547997358726",
+          "totalValueLockedUSD": "4373531.254219396316388772741341692",
+          "volumeUSD": "234871574.0068335771980684035264548"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x9ac681f68a589cc3763bad9ce43be3380696b136",
+          "token0": {
+            "derivedETH": "0.005069440179048140983221081503214959",
+            "id": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611",
+            "name": "Million",
+            "symbol": "MM"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "231.073509993813872016169470625311",
+          "totalValueLockedUSD": "691400.7177351382813136612387428434",
+          "volumeUSD": "231323884.1729392834443225076617701"
+        },
+        {
+          "feeTier": "500",
+          "id": "0x07f3d316630719f4fc69c152f397c150f0831071",
+          "token0": {
+            "derivedETH": "0.0003858703130911813626298864085466064",
+            "id": "0xc581b735a1688071a1746c968e0798d642ede491",
+            "name": "Euro Tether",
+            "symbol": "EURT"
+          },
+          "token1": {
+            "derivedETH": "0.0003289819985353728071202923421860291",
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "totalValueLockedETH": "1765.219051484380057305138628148493",
+          "totalValueLockedUSD": "5347521.92343536079223565748437915",
+          "volumeUSD": "229699627.867485615585505474901669"
+        },
+        {
+          "feeTier": "10000",
+          "id": "0x9febc984504356225405e26833608b17719c82ae",
+          "token0": {
+            "derivedETH": "0.0008942999874608269814500065098176144",
+            "id": "0x111111111117dc0aa78b770fa6a738034120c302",
+            "name": "1INCH Token",
+            "symbol": "1INCH"
+          },
+          "token1": {
+            "derivedETH": "0.0003287974628812087702153443435073073",
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "totalValueLockedETH": "667.2188509199471950205794319319329",
+          "totalValueLockedUSD": "2032709.705535747372176986993318198",
+          "volumeUSD": "214181632.2339606468449324119644273"
+        },
+        {
+          "feeTier": "10000",
+          "id": "0x86e69d1ae728c9cd229f07bbf34e01bf27258354",
+          "token0": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "token1": {
+            "derivedETH": "0.00009379612499188230680798289281373527",
+            "id": "0xf65b5c5104c4fafd4b709d9d60a185eae063276c",
+            "name": "Truebit",
+            "symbol": "TRU"
+          },
+          "totalValueLockedETH": "1371.047721011217607395580634277793",
+          "totalValueLockedUSD": "4169885.342170548971824121997272088",
+          "volumeUSD": "211435876.8265552654622438339158887"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x5ab53ee1d50eef2c1dd3d5402789cd27bb52c1bb",
+          "token0": {
+            "derivedETH": "0.09633581083734111202917406213886297",
+            "id": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "name": "Aave Token",
+            "symbol": "AAVE"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "1697.941486671651885384477138691305",
+          "totalValueLockedUSD": "5166515.641609338854128652397330868",
+          "volumeUSD": "199421655.5843622207635040336656307"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x9359c87b38dd25192c5f2b07b351ac91c90e6ca7",
+          "token0": {
+            "derivedETH": "0.1080982375164662786434221946725645",
+            "id": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+            "name": "DefiPulse Index",
+            "symbol": "DPI"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "5538.841834159207301950663336700783",
+          "totalValueLockedUSD": "16889351.44517654124284507036764143",
+          "volumeUSD": "195026506.2369765871948927651950231"
+        },
+        {
+          "feeTier": "3000",
+          "id": "0x8f8ef111b67c04eb1641f5ff19ee54cda062f163",
+          "token0": {
+            "derivedETH": "14.19890159316151273718552640692744",
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC"
+          },
+          "token1": {
+            "derivedETH": "0.0003275128212738345537265744891998966",
+            "id": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+            "name": "Paxos Standard",
+            "symbol": "PAX"
+          },
+          "totalValueLockedETH": "13328.30085537974302098272624134674",
+          "totalValueLockedUSD": "40192769.02578235888511988511002112",
+          "volumeUSD": "192522791.1649723305584772879560273"
+        },
+        {
+          "feeTier": "10000",
+          "id": "0x3b685307c8611afb2a9e83ebc8743dc20480716e",
+          "token0": {
+            "derivedETH": "0.0004034155496078682973848299932291336",
+            "id": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+            "name": "Fantom Token",
+            "symbol": "FTM"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "4536.767930701488335695644797321956",
+          "totalValueLockedUSD": "13804528.99014037909997766083542464",
+          "volumeUSD": "192413229.8923000985702244680684361"
+        },
+        {
+          "feeTier": "10000",
+          "id": "0xc00c5977395664267c118d71569dccf4bc37bf5f",
+          "token0": {
+            "derivedETH": "0.00003013004040442736609380759405012052",
+            "id": "0xba7970f10d9f0531941dced1dda7ef3016b24e5b",
+            "name": "Based Gold",
+            "symbol": "BGLD"
+          },
+          "token1": {
+            "derivedETH": "1",
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "totalValueLockedETH": "438.8786107823210655210479435228029",
+          "totalValueLockedUSD": "1338253.613518946223927036663980932",
+          "volumeUSD": "186717392.5998981770100767747540204"
+        }
+      ]
+    }
+  }
